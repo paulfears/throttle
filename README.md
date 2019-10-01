@@ -1,6 +1,6 @@
 # throttle.py
 a python decorator for throttlling functions
-##useage
+## useage
 ```python
 import throttle
 @throttle(1000) #seting up function
